@@ -38,7 +38,7 @@ var myBudget = 1000;
 var applePrice = 500;
 
 if(iPhonePrice > myBudget){
-    console.log("Go get some money to buy a iPhone");
+    console.log("Go get some money to buy an iPhone");
 }
 
 else if(myBudget > applePrice){
