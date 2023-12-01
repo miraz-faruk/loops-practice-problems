@@ -32,4 +32,18 @@ console.log(nameOfFriends);
 nameOfFriends.pop();
 console.log(nameOfFriends);
 
+// Conditionals
+var iPhonePrice = 160000;
+var myBudget = 1000;
+var applePrice = 500;
 
+if(iPhonePrice > myBudget){
+    console.log("Go get some money to buy a iPhone");
+}
+
+else if(myBudget > applePrice){
+    console.log("Eat some fresh apple")
+}
+else{
+    console.log("Khatam...tata...buy buy");
+}
